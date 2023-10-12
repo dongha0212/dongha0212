@@ -1,5 +1,5 @@
-<h5 align="center">Hi 👋, This is Dongha Lee.</h5>
-<h4 align="center">welcome to Dongha's Github</h4>
+<h1 align="center">Hi 👋, This is Dongha Lee.</h1>
+<h2 align="center">welcome to Dongha's Github</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongha0212&label=Profile%20views&color=0e75b6&style=flat" alt="dongha0212" /> </p>
 
